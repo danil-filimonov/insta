@@ -1,0 +1,19 @@
+body {
+  font-family: $r400;
+  font-size: 18px;
+  // scrollbar-color: rgb(255, 86, 86) #000;
+  // scrollbar-width: thin;
+  // &::-webkit-scrollbar {
+  //   width: 10px;
+  //   background-color: #000;
+  // }
+  // &::-webkit-scrollbar-thumb {
+  //   background-color: rgb(255, 86, 86);
+  //   border-radius: 10px;
+  // }
+}
+.container {
+  max-width: 935px;
+  width: 100%;
+  margin: 0 auto;
+}
